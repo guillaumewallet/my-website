@@ -1,0 +1,16 @@
+.btn-blue {
+	background-color: #157A82;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+
+}
+
+#btn-start {
+	background-color: #bb0726;
+	width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+}
